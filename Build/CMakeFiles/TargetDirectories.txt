@@ -1,0 +1,3 @@
+/home/tommylz/文档/C++/HRACS/Build/CMakeFiles/build.dir
+/home/tommylz/文档/C++/HRACS/Build/CMakeFiles/edit_cache.dir
+/home/tommylz/文档/C++/HRACS/Build/CMakeFiles/rebuild_cache.dir
